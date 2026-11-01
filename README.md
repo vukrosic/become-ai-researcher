@@ -1,25 +1,57 @@
-# become-ai-researcher
-Tutorial notebooks from my channel - https://www.youtube.com/channel/UC7XJj9pv_11a11FUxCMz15g
+<p align="center">
+  <img src="assets/banner-en.webp" alt="Become AI Researcher" width="100%">
+</p>
 
----
+<p align="center">
+  <a href="https://www.skool.com/become-ai-researcher-2669"><img src="https://img.shields.io/badge/Join%20the%20lab-free%20trial-22d3ee?style=for-the-badge" alt="Join the lab, free trial"></a>
+  &nbsp;
+  <a href="README.zh.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-818cf8?style=for-the-badge" alt="中文"></a>
+</p>
 
-# Finished
-[RNN - Sum of Two Numbers.ipynb](https://colab.research.google.com/drive/1Qjk7oV_Vmo_Hgwg_o9n4HLwEdhbiWtEH?usp=sharing)
+<p align="center"><b>Get an AI research job or start a PhD in 6–12 months.</b></p>
 
-[CNN - MNIST Handwritten Digits.ipynb](https://colab.research.google.com/drive/1RFTM5WXpjlDGHtLtFlM_Onp4WtfVSnxC?usp=share_link)
+We are writing papers for **ICML 2027**, a top AI conference with a January 2027 deadline. Publish your own paper, or join mine or other members' papers as a co-author.
 
-[Logistic Regression Iris Dataset](https://colab.research.google.com/drive/1LxE3n1upFCNa_Ax4_FATLhZsk2mYBuWo?usp=sharing)
+Run by **Vuk Rosić**: ex AI researcher at Beam AI, 110K views on the Become AI Researcher course, 24.7K YouTube subscribers.
 
+## How the lab works
 
+<img src="assets/how-en.webp" alt="1. Pick a question, 2. Get feedback, 3. Publish" width="100%">
 
-# Current projects
-[Simple Transformer.ipynb](https://colab.research.google.com/drive/1KHNGqvQmUQ-ke6cWA3ngGB4GQklzXIfM?usp=sharing)
+- **Research goals:** take a goal from a lab project, or set your own.
+- **Weekly live meeting:** everyone shows their research and gets feedback.
+- **Lab projects:** real research questions. Join one, or bring your own topic.
+- **Get seen by AI labs:** share your research on X and build your name as a researcher.
 
-[LSTM - Shakespeare character prediction.ipynb](https://colab.research.google.com/drive/1ePKLK6J0yArAHMVd2D1mlg60C3LLtqsa?usp=share_link)
+## What's inside
 
-[Diabetes Prediction - Feedforward NN.ipynb](https://colab.research.google.com/drive/1W4lOTnmAsSEyi7ty8dbnre4pAbBcR2q7?usp=share_link)
+| | |
+|---|---|
+| 🧪 **Real AI research lab** | Projects that end in papers |
+| 🎥 **7+ hours of courses** | From-scratch video courses |
+| 🤖 **Autonomous research systems** | AI agents that run experiments |
+| 💬 **Community** | Ask questions, share work, get feedback |
 
+## Research topics
 
+| Area | Example question |
+|---|---|
+| Muon optimizer | How does Muon interact with attention heads? |
+| Attention | What does QK-norm change in attention? |
+| Learning-rate schedules | How does warmdown length change final loss? |
+| Tokenizers | How does vocabulary size change what a small model learns? |
+| Model layers | What does each layer learn? |
 
-# Blog
-[Intuitive Explanation of Gradient Descent Optimization](https://vukrosic.github.io/gradient-descent-optimization-intuitive-explanation/)
+Example result from our Muon optimizer research:
+
+<img src="assets/research-en.webp" alt="For some activations, a bigger neuron gets a bigger gradient" width="100%">
+
+## Join
+
+**[Join Become AI Researcher on Skool →](https://www.skool.com/become-ai-researcher-2669)**
+
+Free trial. Cancel anytime.
+
+## Follow
+
+[YouTube](https://www.youtube.com/@vukrosic) · [X](https://x.com/VukRosic99) · Bilibili: vuk_ai
