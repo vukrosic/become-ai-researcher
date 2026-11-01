@@ -25,12 +25,10 @@ Run by **Vuk Rosić**: ex AI researcher at Beam AI, 110K views on the Become AI 
 
 ## What's inside
 
-| | |
-|---|---|
-| 🧪 **Real AI research lab** | Projects that end in papers |
-| 🎥 **7+ hours of courses** | From-scratch video courses |
-| 🤖 **Autonomous research systems** | AI agents that run experiments |
-| 💬 **Community** | Ask questions, share work, get feedback |
+- 🧪 **Real AI research lab**: Projects that end in papers
+- 🎥 **7+ hours of courses**: From-scratch video courses
+- 🤖 **Autonomous research systems**: AI agents that run experiments
+- 💬 **Community**: Ask questions, share work, get feedback
 
 ## Research topics
 
