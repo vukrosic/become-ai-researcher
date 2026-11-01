@@ -50,7 +50,7 @@ Example result from our Muon optimizer research:
 
 Free trial. Cancel anytime.
 
-**Can't pay on Skool, for example from China?** Add me on WeChat: `vuk_ai`
+**From China and can't pay on Skool?** Add me on WeChat: `vuk_ai`
 
 ## Follow
 
