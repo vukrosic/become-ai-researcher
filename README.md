@@ -50,6 +50,8 @@ Example result from our Muon optimizer research:
 
 Free trial. Cancel anytime.
 
+**Can't pay on Skool, for example from China?** Add me on WeChat: `vuk_ai`
+
 ## Follow
 
 [YouTube](https://www.youtube.com/@vukrosic) · [X](https://x.com/VukRosic99) · Bilibili: vuk_ai

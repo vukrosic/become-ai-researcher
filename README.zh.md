@@ -50,6 +50,8 @@
 
 免费试用，随时取消。
 
+**在中国无法在 Skool 付款？** 加我微信：`vuk_ai`
+
 ## 关注
 
 [YouTube](https://www.youtube.com/@vukrosic) · [X](https://x.com/VukRosic99) · Bilibili：vuk_ai
