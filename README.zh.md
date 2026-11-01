@@ -52,6 +52,8 @@
 
 **如果你在中国，无法在 Skool 付款，** 请加我微信：`vuk_ai`
 
+**无法付款？** 请发邮件给我：[vukrosic1@gmail.com](mailto:vukrosic1@gmail.com)
+
 ## 关注
 
 [YouTube](https://www.youtube.com/@vukrosic) · [X](https://x.com/VukRosic99) · Bilibili：vuk_ai

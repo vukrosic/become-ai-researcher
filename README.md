@@ -52,6 +52,8 @@ Free trial. Cancel anytime.
 
 **From China and can't pay on Skool?** Add me on WeChat: `vuk_ai`
 
+**Not able to pay?** Email me: [vukrosic1@gmail.com](mailto:vukrosic1@gmail.com)
+
 ## Follow
 
 [YouTube](https://www.youtube.com/@vukrosic) · [X](https://x.com/VukRosic99) · Bilibili: vuk_ai
